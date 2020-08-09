@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JuanDhers/clima/static/css/main.a4c7b249.chunk.css",
+    "main.js": "/JuanDhers/clima/static/js/main.bdb41261.chunk.js",
+    "main.js.map": "/JuanDhers/clima/static/js/main.bdb41261.chunk.js.map",
+    "runtime-main.js": "/JuanDhers/clima/static/js/runtime-main.1f82d2d9.js",
+    "runtime-main.js.map": "/JuanDhers/clima/static/js/runtime-main.1f82d2d9.js.map",
+    "static/js/2.d814037f.chunk.js": "/JuanDhers/clima/static/js/2.d814037f.chunk.js",
+    "static/js/2.d814037f.chunk.js.map": "/JuanDhers/clima/static/js/2.d814037f.chunk.js.map",
+    "index.html": "/JuanDhers/clima/index.html",
+    "precache-manifest.f6b93c3bb61b0264d8e55c9ef64325b7.js": "/JuanDhers/clima/precache-manifest.f6b93c3bb61b0264d8e55c9ef64325b7.js",
+    "service-worker.js": "/JuanDhers/clima/service-worker.js",
+    "static/css/main.a4c7b249.chunk.css.map": "/JuanDhers/clima/static/css/main.a4c7b249.chunk.css.map",
+    "static/js/2.d814037f.chunk.js.LICENSE.txt": "/JuanDhers/clima/static/js/2.d814037f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f82d2d9.js",
+    "static/js/2.d814037f.chunk.js",
+    "static/css/main.a4c7b249.chunk.css",
+    "static/js/main.bdb41261.chunk.js"
+  ]
+}
